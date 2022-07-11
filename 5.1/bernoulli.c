@@ -17,5 +17,3 @@ else{
 }
 fclose(fp);
 }
-Footer
-
